@@ -1,0 +1,39 @@
+.produtos-info h1 {
+  font-size: 3rem;
+  color: #222;
+}
+.produtos-info {
+  border-top: 2px solid #2c70ff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.produtos {
+  max-width: 960px;
+  margin: 0 auto;
+  margin-bottom: 80px;
+}
+.plan {
+  display: flex;
+  flex-direction: column;
+  width: 33.33%;
+  background-color: #f7f7f7;
+}
+.produtos-planos {
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+}
+.plan h1 {
+  font-size: 3rem;
+  color: #a4a4a4;
+  padding: 40px 20px;
+}
+.purple {
+  border-top: 8px solid #ae81ff;
+}
+.pink {
+  border-top: 8px solid #f9265e;
+}
+.blue {
+  border-top: 8px solid #66d9eb;
+}
